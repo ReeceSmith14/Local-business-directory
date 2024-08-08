@@ -7,7 +7,6 @@
 - [Psycopg2](https://www.psycopg.org/docs/): PostgreSQL adapter
 - [HTML5](https://en.wikipedia.org/wiki/HTML): Markup language
 
-
 ## Credits
 
 ### Media
